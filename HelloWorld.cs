@@ -9,4 +9,10 @@ public class HelloWorld : MonoBehaviour
         //Выводит сообщение
         print("Hello World!");
     }
+
+    private void Update()
+    {
+        print("crickets");
+    }
+
 }
